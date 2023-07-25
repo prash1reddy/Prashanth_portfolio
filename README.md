@@ -1,7 +1,7 @@
 # portfolio-website
 This is the portfolio website of R S Sai Prashanth. 
 A single-page static website with a fixed sidebar, smooth scrolling navigation, and content sections. Great for an elegant resume or portfolio. Mobile-friendly.
-It's fully responsive and easy to adapt for your own purposes
+It's fully responsive and easy to adapt for your own purposes.
 
 # Technologies Used
 * HTML5 & CSS3
@@ -11,3 +11,6 @@ It's fully responsive and easy to adapt for your own purposes
 * Font Awesome
 * Devicon
 * Google Fonts
+
+#Website link:
+https://prash1reddy.github.io/Prashanth-portfolio/
